@@ -1,0 +1,8 @@
+1. autoprefixer-cli 
+ma czytaæ z pliku style.css i zapisywaæ wynik do pliku style.prefixed.css
+
+KOMENDA: node_modules/.bin/autoprefixer-cli -o styleprefixed.css style.css
+
+2. html-validate ma wyœwietlaæ listê b³êdów we wszystkich plikach .html.
+
+KOMENDA: node_modules/.bin/nu-html-checker *html
